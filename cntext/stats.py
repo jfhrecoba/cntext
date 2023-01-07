@@ -202,7 +202,7 @@ def sentiment_by_valence(text, diction, lang='english'):
 
     :return:
     """
-    score = 0
+    #score = 0
     result = dict()
     result['valence'] = 0
 
